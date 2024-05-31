@@ -1,0 +1,16 @@
+{{- define "main" }}
+
+<!-- ----------------------------------------------------------------------- -->
+<!--                             Manifesto banner                            -->
+<!-- ----------------------------------------------------------------------- -->
+
+{{ $manifesto := where .Site.RegularPages "Params.translationKey" "manifesto" }}
+{{ $manifesto := index $manifesto 0 }}
+
+<h3>
+    <div class="manifesto-link">
+        <a href="{{ $manifesto.RelPermalink }}"> -> {{ i18n "read-our-manifesto" }}</a>
+    </div><br>
+</h3>
+
+{{- end }}{{- /* end main */ -}}

@@ -1,0 +1,9 @@
+# ---------------------------------------------------------------------------- #
+#                                  Home Page                                   #
+# ---------------------------------------------------------------------------- #
+
+- id: read-our-manifesto
+  translation: "Lisez notre manifeste"
+
+- id: manifesto-slug
+  translation: "/manifeste"

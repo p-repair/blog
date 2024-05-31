@@ -1,38 +1,42 @@
-+++
-title = 'Manifeste de (p)repair'
-date = 2024-05-29T12:15:00+02:00
-draft = false
-+++
+---
+title: Manifeste de (p)repair
+date: 2024-05-29T10:15:00.000Z
+draft: false
+layout: manifesto
+translationKey: manifesto
+slug: manifeste
+type: manifesto
+params:
+  justify: true
+---
 
-Introduction
-------------
+## Introduction
 
 L’objectif de ce manifeste est de vous transmettre les clés de notre projet (p)repair. Quel problème souhaitons-nous attaquer ? Comment souhaitons-nous y parvenir ? Pourquoi faisons-nous cela ? Vous devriez trouver les réponses à ces questions dans les pages qui suivent. Et si d’aventure il vous venait d’autres questions, n’hésitez pas à nous en faire part, en nous écrivant simplement sur : [equipe@p-repair.org](mailto:equipe@p-repair.org)
 
 Bonne lecture !
 
-1/ L’entretien : chevalier au service du bien
----------------------------------------------
+## 1/ L’entretien : chevalier au service du bien
 
-#### Les ennuis
+### Les ennuis
 
-D’après l’ADEME (ou Agence de la transition écologique, pour les non-initiés), et le SAV Fnac-Darty, plus de 50% des pannes sur nos appareils domestiques sont liées à un manque d’entretien \[1\], \[2\]. On s’en fout, me direz-vous ? Pas tant que ça, pour deux raisons : ça nous coûte cher, et ça flingue la planète (vous commencez à connaître la rengaine normalement).
+D’après l’ADEME (ou Agence de la transition écologique, pour les non-initiés), et le SAV Fnac-Darty, plus de 50% des pannes sur nos appareils domestiques sont liées à un manque d’entretien [^1], [^2]. On s’en fout, me direz-vous ? Pas tant que ça, pour deux raisons : ça nous coûte cher, et ça flingue la planète (vous commencez à connaître la rengaine normalement).
 
-En gros, 50% de pannes évitables, ça correspond à 14 millions d’appareils électroménagers, par an, en France.
+En gros, 50% de panes évitables, ça correspond à 14 millions d’appareils électroménagers, par an, en France.
 
 C’est considérable.
 
-Nous avons une réelle carte à jouer pour diminuer les externalités générées par la majorité des appareils appareils que nous utilisons, en étendant leur durée de vie \[3\], \[4\], \[5\].
+Nous avons une réelle carte à jouer pour diminuer les externalités générées par la majorité des appareils appareils que nous utilisons, en étendant leur durée de vie [^3], [^4], [^5].
 
-Une infographie de l’ADEME \[6\] indique par exemple:
+Une infographie de l’ADEME [^6] indique par exemple:
 
 > Si tout le parc des lave-linge, lave-vaisselle et sèche-linge en France était allongé d’une durée de vie d’une année, les gains seraient de 860 000 tonnes de CO²-eq, soit l’équivalent de l’impart énergétique de 1,6 millions de ménages pendant 1 an.
 
-Une autre infographie \[7\] pointe les économies:
+Une autre infographie [^7] pointe les économies:
 
 > Prolonger d’1 an la durée d’usage de ses équipements plutôt que de les remplacer par du neuf permettrait d’économiser 660€.
 
-#### Le testament
+### Le testament
 
 Donc pour polluer moins, c’est mathématique : il faut produire moins. Et pour produire moins, c’est simple, nous devons appliquer les 7 R. Il s’agit de règles est assez logique :
 
@@ -47,11 +51,11 @@ Franchement, avec un peu de motivation (sauver le monde, c’est pas mal non ?
 
 Et ça fait du bien au moral de savoir que l’on s’améliore individuellement et collectivement !
 
-Mais dans ces règles de vie, nouveau testament du zéro déchet, il manque peut-être un r : rentretenir. Car encore une fois, d’après nos sources de confiance évoquées dans _les ennuis_, nous pourrions théoriquement éviter un paquet de millions de pannes sur l’électroménager tous les ans, en France, avec un bon rentretient généralisé. Ce n’est pas rien, qu’en dites-vous ?
+Mais dans ces règles de vie, nouveau testament du zéro déchet, il manque peut-être un r : rentretenir. Car encore une fois, d’après nos sources de confiance évoquées dans [les ennuis](#les-ennuis), nous pourrions théoriquement éviter un paquet de millions de pannes sur l’électroménager tous les ans, en France, avec un bon rentretient généralisé. Ce n’est pas rien, qu’en dites-vous ?
 
 C’est bien beau tout ça, mais comment faut-il entretenir ? Nous ne sommes pas tous des pros après tout, et ce que nous voulons, c’est acheter un appareil, le brancher, qu’il fonctionne, consomme peu, dure longtemps, et voila !
 
-#### Exemples d’entretien
+### Exemples d’entretien
 
 Ça mérite quelques exemples pour illustrer.
 
@@ -63,29 +67,28 @@ Les charbons moteurs : ce sont des pièces qui assurent l’alimentation élec
 
 Pour finir, on repart sur du simple : quand avez-vous lancé votre lave-linge à vide, pour la dernière fois, sur un programme haute température (au moins 60°C), avec du vinaigre dans le tambour, pour nettoyer tout le bazar? Peut-être est-ce récent, félicitations !
 
-Le site « Épargnons nos ressources » de l’ADEME fourmille de bons conseils d’entretien \[8\]. De même qu’un grand nombre de forums en ligne.
+Le site « Épargnons nos ressources » de l’ADEME fourmille de bons conseils d’entretien [^8]. De même qu’un grand nombre de forums en ligne.
 
-#### Flemme
+### Flemme
 
 Alors OK, parfois, nous avons la flemme. Nous ne sommes que des humains après tout, c’est bien de le reconnaître. Et nos appareils électroménagers, c’est clairement pas ce qu’il y a de plus sexy dans la vie. On a souvent bien mieux à faire : voir ses copains, ses copines, sa famille, cuisiner un bon plat, boire un bon coup, regarder une série, s’étirer sous la couette, se balader en forêt… J’en suis !
 
-#### Sexy ?
+### Sexy ?
 
-Mais en y réfléchissant : est-ce que ça n’est pas un peu sexy, de sortir quelques tournevis, une clé à molette, et de se coller à un petit check des charbons moteurs, un petit nettoyage d’un filtre, un petit graissage d’un piston ? Ça a déjà le mérite de faire de vous un mélange de Angus MacGyver \[9\] et de Imperator Furiosa \[10\].
+Mais en y réfléchissant : est-ce que ça n’est pas un peu sexy, de sortir quelques tournevis, une clé à molette, et de se coller à un petit check des charbons moteurs, un petit nettoyage d’un filtre, un petit graissage d’un piston ? Ça a déjà le mérite de faire de vous un mélange de Angus MacGyver [^9] et de Imperator Furiosa [^10].
 
 Voici quelques-uns de vos futurs skills :
 
-*   vous serez moins neuneu face aux machines qui vous entourent 🧠
-*   vous serez mieux équipé en compétences transverses pour survivre à la fin du monde 🦾🔧
-*   vous pourrez transmettre vos connaissances à votre entourage 🧡
-*   vous participerez à retarder la fin du monde ❤️‍🔥
-*   d’ici-là, vous ferez des économies 💶
-*   vous ferez avancer la science 🧪
+*   vous serez moins neuneu face aux machines qui vous entourent 🧠
+*   vous serez mieux équipé en compétences transverses pour survivre à la fin du monde 🦾🔧
+*   vous pourrez transmettre vos connaissances à votre entourage 🧡
+*   vous participerez à retarder la fin du monde ❤️‍🔥
+*   d’ici-là, vous ferez des économies 💶
+*   vous ferez avancer la science 🧪
 
 Et surtout, on estime à très peu de temps celui dont vous aurez besoin pour gérer vos machines. Soit ce sont elles qui vous gèrent, soit c’est vous qui les gérez. À vous de choisir. Nous avons l’occasion de devenir de véritables hackers du quotidien sans fournir de réels efforts. Ça ne se présentera peut-être qu’une fois dans notre vie. Ne laissons pas filer cette chance.
 
-2/ L’organisation, le nerf de la guerre
----------------------------------------
+## 2/ L’organisation, le nerf de la guerre
 
 Nous avons fait part de notre entrain pour le bon entretien.
 
@@ -93,7 +96,7 @@ Maintenant, on va tâcher d’expliquer par quels moyens on compte bien attaquer
 
 Nous allons y aller point par point. Et à la fin, vous verrez, lorsque l’on relie tout, que l’idée est intéressante.
 
-#### Les notifications
+### Les notifications
 
 La clé de voûte de notre solution, c’est une application mobile.
 
@@ -107,17 +110,17 @@ Le principe des notifications, ce n’est pas de se faire bombarder chaque jour 
 
 Et attention, nous ne ferons pas appel à n’importe qui, pour vous prodiguer ces conseils d’entretien : Till viendra en personne pour vous expliquer ce qu’il est bon de faire pour gérer la forme de votre lave-vaisselle, four, sèche-linge…
 
-#### La mascotte
+### La mascotte
 
 Mais qui est Till ?
 
 Till, c’est un chien. Un chien un peu timbré, qui a toute la fougue et l’énergie de la jeunesse, et un amour infini à donner. C’est la mascotte sur l’application, celui dont nous voyons pointer le museau quand il s’agit d’en apprendre un peu plus sur la vie secrète de nos machines. Till n’a pas sa langue dans sa poche, il parle franc quand il s’agit de dévisser un cache pour accéder aux entrailles des appareils !
 
-#### Le référencement
+### Le référencement
 
 Pour transmettre son savoir, Till a besoin de nous. Nous devons référencer sur l’application les appareils que nous possédons. L’idée est simple : j’ai un FOUR de la marque SONORA et du modèle CHOMAX. Je vais sur l’application (p)repair, et je renseigne que je possède ce produit, sur mon compte utilisateur. Je reçois ensuite des conseils sur mesure pour tous les produits ajoutés à ma collection.
 
-#### Le fonctionnement collaboratif
+### Le fonctionnement collaboratif
 
 Les produits que que j’ajoute à ma collection ne sortent pas de nulle part. Je les possède physiquement. Et ils existent virtuellement dans une base de donnée, c’est ce qui me permet de les retrouver sur l’application.
 
@@ -125,7 +128,7 @@ La base de données de (p)repair n’est pas achetée à des fournisseurs de don
 
 « Mais comment Till va savoir quels conseils me donner, pour un produit que j’ai moi-même ajouté à la base ? » Et bien c’est simple : ce produit appartient à une catégorie (un FOUR pour reprendre l’exemple précédent). Il existe des gestes d’entretien nécessaires pour la grande majorité des fours. Je recevrai d’abord ces conseils. Ensuite, comme l’application est collaborative, d’autres membres avisés pourront ajouter de nouveaux conseils, qui concerneront plus précisément le modèle de mon four (CHOMAX, pour reprendre l’exemple précédent). Till travaille également à l’amélioration permanente de l’application, et part à la recherche de partenaires (des fabricants de fours, par exemple, ou encore des réparateurs) pour ajouter de nouveaux conseils au fur et à mesure. Il parcourt également internet à la recherche des meilleures pratiques d’entretien. Mais pas de panique : Till est un bon gars, il veille à ce que nous ne soyons jamais débordés de notifications, et choisit celles qui sont vraiment les plus judicieuses pour nous faire gagner du temps, de l’argent, et de l’amour pour ce monde.
 
-#### Les statistiques
+### Les statistiques
 
 Qui dit base de données dit… statistiques !
 
@@ -140,22 +143,22 @@ Cela permettra facilement de déterminer quel modèle de produit est plus ou moi
 
 Ça permettra également de donner des indications sur les produits les plus intéressants à l’achat.
 
-##### Illustration du propos
+#### Illustration du propos
 
-J’ai un budget d’environ 450€ pour m’acheter un nouveau lave-linge, car le précédent est tombé en panne au bout de 6 années de loyaux services. Je ne suis pas très bricoleur, et le coût de la réparation est estimé à 190€, incluant les pièces détachées et la main d’œuvre. Ce coût étant supérieur au 1/3 de la valeur de mon produit neuf, je décide, comme la majorité de la population, de renouveler pour du neuf. Cet achat est motivé par : une panne, un coût de réparation jugé trop important, et pour finir, un léger plaisir lié à l’acquisition d’un matériel neuf.
+J’ai un budget d’environ 450 € pour m’acheter un nouveau lave-linge, car le précédent est tombé en panne au bout de 6 années de loyaux services. Je ne suis pas très bricoleur, et le coût de la réparation est estimé à 190 €, incluant les pièces détachées et la main d’œuvre. Ce coût étant supérieur au 1/3 de la valeur de mon produit neuf, je décide, comme la majorité de la population, de renouveler pour du neuf. Cet achat est motivé par : une panne, un coût de réparation jugé trop important, et pour finir, un léger plaisir lié à l’acquisition d’un matériel neuf.
 
-Dans le magasin, plusieurs modèles oscillent autour de 450€. Je me décide pour un lave-linge à 479€, qui a de l’allure, et une bonne étiquette énergétique (consommation d’électricité et d’eau plus faible que ses concurrents). Le lave-linge que je viens d’acquérir a une durée de vie moyenne de 6 années, d’après les chiffres récoltés sur les anciens modèles de cette gamme, pour cette marque. Je ne le sais pas encore. Un autre modèle, d’une marque reconnue comme plus fiable et spécialisée dans les gammes supérieures, est vendu 1 199€, avec une durée de vie moyenne de 18 années. Je ne le sais pas non plus. Car si j’avais disposé d’un outil me permettant de vraiment comparer pour choisir le produit le moins cher, j’aurais acheté le second modèle, à 1 199€, quitte à payer en plusieurs fois.
+Dans le magasin, plusieurs modèles oscillent autour de 450 €. Je me décide pour un lave-linge à 479 €, qui a de l’allure, et une bonne étiquette énergétique (consommation d’électricité et d’eau plus faible que ses concurrents). Le lave-linge que je viens d’acquérir a une durée de vie moyenne de 6 années, d’après les chiffres récoltés sur les anciens modèles de cette gamme, pour cette marque. Je ne le sais pas encore. Un autre modèle, d’une marque reconnue comme plus fiable et spécialisée dans les gammes supérieures, est vendu 1 199€, avec une durée de vie moyenne de 18 années. Je ne le sais pas non plus. Car si j’avais disposé d’un outil me permettant de vraiment comparer pour choisir le produit le moins cher, j’aurais acheté le second modèle, à 1 199€, quitte à payer en plusieurs fois.
 
-##### Voilà le tableau
+#### Voilà le tableau
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 |     | **Modèle 1, marque A** | **Modèle 2, marque B** | **Écart** |
-| Prix d’achat | 479 € | 1 199 € |     |
+| Prix d’achat | 479 € | 1 199 € |     |
 | Durée de vie moyenne | 6   | 18  |     |
-| **Coût de revient annuel** | **79,83 €** | **66,61 €** | 13,22 € |
+| **Coût de revient annuel** | **79,83 €** | **66,61 €** | 13,22 € |
 
-Le vainqueur de la comparaison est indéniablement le second modèle. J’aurais économisé 13,22€ par an en moyenne, en décidant d’acheter le second modèle. Sur une période de 18 années, cela ferait 13,22 x 18 = 237,96€ économisés. Si l’on suit cette logique et qu’on la multiplie par le nombre d’appareils électroménagers que l’on possède, il est possible de réaliser de belles économies grâce à des choix judicieux !
+Le vainqueur de la comparaison est indéniablement le second modèle. J’aurais économisé 13,22 € par an en moyenne, en décidant d’acheter le second modèle. Sur une période de 18 années, cela ferait 13,22 x 18 = 237,96 € économisés. Si l’on suit cette logique et qu’on la multiplie par le nombre d’appareils électroménagers que l’on possède, il est possible de réaliser de belles économies grâce à des choix judicieux !
 
 Ce qu’il faut retenir, c’est que le moins cher à l’achat n’est pas toujours réellement le moins cher.
 
@@ -170,11 +173,11 @@ Après une rapide analyse, le modèle 2 est :
 *   le moins cher
 *   le plus écologique
 
-Parfois, il peut-être bon de renouveler son appareil avant 20 ans, s’il y a un bond technologique qui permet de drastiquement réduire la consommation d’énergie des nouveaux appareils par rapport aux anciens. Cela est plus délicat à juger, ça se fait souvent au cas par cas \[3\] \[11\]. 
+Parfois, il peut-être bon de renouveler son appareil avant 20 ans, s’il y a un bond technologique qui permet de drastiquement réduire la consommation d’énergie des nouveaux appareils par rapport aux anciens. Cela est plus délicat à juger, ça se fait souvent au cas par cas [^3], [^11].
 
-Du coup, nous comptons aussi proposer des statistiques environnementales, pour nous inciter à faire les meilleurs choix, quel que soit notre motivation première. Nous pourrons savoir combien de CO² nous avons évité d’émettre en conservant nos appareils plus longtemps que la moyenne, combien de tonnes de déchets nous avons évité, et bien d’autres tracas pour notre belle planète Terre.
+Du coup, nous comptons aussi proposer des statistiques environnementales, pour nous inciter à faire les meilleurs choix, au regard de notre motivation première. Nous pourrons savoir combien de CO² nous avons évité d’émettre en conservant nos appareils plus longtemps que la moyenne, combien de tonnes de déchets nous avons évité, et bien d’autres tracas pour notre belle planète Terre.
 
-#### Les informations additionnelles
+### Les informations additionnelles
 
 Pour avoir accès à ces statistiques, il nous sera possible de renseigner des informations additionnelles pour les produits que nous possédons. Par exemple : le prix d’achat, la durée de garantie.
 
@@ -182,7 +185,7 @@ Ce sera toujours pratique d’avoir dans la poche l’information que notre appa
 
 Ce sera aussi pratique de voir quel produit a largement dépassé sa durée de vie moyenne grâce à nos bons soins, mais qui peut-être finira par causer un nouvel investissement malgré tout : nous pourrons anticiper d’éventuelles dépenses.
 
-#### Le traitement de la donnée
+### Le traitement de la donnée
 
 Dans notre vision, chacun décide de l’accès à ses informations non personnelles : je pourrai alors choisir de rendre publiques ou non les produits de ma collection.
 
@@ -190,31 +193,31 @@ Concernant les donnée à caractère personnel, elles ne seront jamais vendues, 
 
 Tout ceci sera bien ficelé juridiquement, pour que nous soyons tous sereins en regardant l’avenir.
 
-#### Le modèle du libre ou de l’« open source »
+### Le modèle du libre ou de l’« open source »
 
 Nous sommes convaincus que ce qui se fait de bien dans le monde doit bénéficier au plus grand nombre.
 
-En la matière, nos principaux exemples sont : Wikipédia \[12\], Open Street Map \[13\], Open Food Facts \[14\], et plus récemment encore Team for the Planet \[15\].
+En la matière, nos principaux exemples sont : Wikipédia, Open Street Map, Open Food Facts, et plus récemment encore Team for the Planet.
 
 Le développement d’internet permet aujourd’hui à 5 milliards d’humains d’interagir, et de bénéficier de ressources libres. C’est une puissance phénoménale pour le partage.
 
-Wikipédia est une encyclopédie qui a démocratisé le savoir, dans tous les domaines, à l’échelle de la planète.
+**Wikipédia** est une encyclopédie qui a démocratisé le savoir, dans tous les domaines, à l’échelle de la planète [^12].
 
-OpenStreetMap est une cartographie libre qui permet de se repérer géographiquement, partout sur la planète.
+**OpenStreetMap** est une cartographie libre qui permet de se repérer géographiquement, partout sur la planète [^13].
 
-Open Food Facts veut faire de la transparence alimentaire une norme, à l’échelle de la planète. Des applications comme Yuka sont basées sur ce projet.
+**Open Food Facts** veut faire de la transparence alimentaire une norme, à l’échelle de la planète. Des applications comme Yuka sont basées sur ce projet [^14].
 
-Team for the Planet est un projet qui veut financer et rendre libres des innovations pour réduire les émissions gazs à effet de serre.
+**Team for the Planet** est un projet qui veut financer et rendre libres des innovations pour réduire les émissions gazs à effet de serre [^15].
 
 Avec (p)repair, nous voulons faire de la transparence sur les produits une norme, à l’échelle de la planète.
 
-Par conséquent, les informations publiques de notre base de données (qui ne concernent pas les profils utilisateurs) seront libres d’accès pour toute structure souhaitant en bénéficier. Toute amélioration apportée à cette base de données devra en retour être libre d’accès également. Et aucune organisation ne pourra s’accaparer les droits d’utiliser nos données, au détriment des autres. C’est ce qu’on appelle une licence libre « contaminante », à l’instar de la licence publique générale GNU pour les curieux \[16\].
+Par conséquent, les informations publiques de notre base de données (qui ne concernent pas les profils utilisateurs) seront libres d’accès pour toute structure souhaitant en bénéficier. Toute amélioration apportée à cette base de données devra en retour être libre d’accès également. Et aucune organisation ne pourra s’accaparer les droits d’utiliser nos données, au détriment des autres. C’est ce qu’on appelle une licence libre « contaminante », à l’instar de la licence publique générale GNU pour les curieux [^16].
 
-Le modèle du libre est défendue dans un rapport de l’ONU sur l’allongement de la durée de vie des objets \[3\]. On peut y lire :
+Le modèle du libre est défendu dans un rapport de l’ONU sur l’allongement de la durée de vie des objets [^3]. On peut y lire :
 
 > La philosophie de base derrière la perspective « Open Source » est que le manque de transparence (information asymétrique entre l’industrie et les consommateurs) est l’une des causes du raccourcissement de la durée de vie des produits. Si les consommateurs disposent de meilleures informations, ils peuvent, en théorie, prendre de meilleures décisions d’achat. L’Open Source est donc destiné à permettre aux consommateurs de prolonger la durée de vie des produits. Il s’ensuit que les consommateurs reçoivent non seulement plus de pouvoir, mais aussi plus de responsabilité. Le succès de cette perspective dépendra de l’action des consommateurs, de la capacité et du soutien des mesures politiques pertinentes, des organisations non gouvernementales (ONG) et des initiatives de l’industrie.
 
-#### Le suivi des pannes
+### Le suivi des pannes
 
 Notre projet prévoit de référencer non seulement les produits, mais aussi les pannes qui surviennent sur ces produits.
 
@@ -226,23 +229,23 @@ Pourquoi ? Simplement pour :
 
 Nous aurons donc encore plus de statistiques intéressantes ! Et oui Jammy ! Le must dans tout ça : si 10 000 d’entre nous rencontrent une panne sur un produit donné et qu’aucune solution n’existe, quiconque aura accès à cette information et pourra décider d’entreprendre pour proposer une solution à ces 10 000 utilisateurs et clients potentiels. Certaines entreprises pourront utiliser (p)repair comme étude de marché pré-mâchée pour voir là où une demande insatisfaite existe, et y remédier, pour le bien des portefeuilles et de la planète !
 
-#### Les pièces détachées
+### Les pièces détachées
 
 Une panne = une réparation potentielle, et nous ferons tout pour faciliter cela !
 
-Dans plus de 50% des cas \[17\], une pièce détachée sera nécessaire pour réparer un produit tombé en panne. Nous comptons référencer les pièces compatibles avec chaque produit, ainsi nous n’aurons plus besoin de chercher.
+Dans plus de 50 % des cas [^17], une pièce détachée sera nécessaire pour réparer un produit tombé en panne. Nous comptons référencer les pièces compatibles avec chaque produit, ainsi nous n’aurons plus besoin de chercher.
 
 Les informations relatives aux pièces détachées permettront là encore d’obtenir des statistiques : entre plusieurs pièces compatibles, l’une est-elle plus robuste ? L’une est-elle usinée de façon plus responsable ? Avec de meilleurs matériaux ? Est-elle fabriquée plus proche ? La transparence sur ces informations devrait éviter d’éventuelles dérives vers de nouveaux modèles économiques basés sur la réparabilité d’un produit, mais avec des pièces à changer très régulièrement. En bref, nous voulons savoir quels produits sont les meilleurs (les moins chers, les plus durables), mais aussi quelles pièces détachées sont les meilleures, sur ces mêmes critères !
 
-#### Mise en relation
+### Mise en relation
 
-Pour faciliter encore l’acte civique et poétique de la réparation, nous proposerons une mise en relation directe avec les plateformes expertes dans la distribution des pièces détachées, telles que SOS Accessoires \[18\] ou encore Spareka \[19\].
+Pour faciliter encore l’acte civique et poétique de la réparation, nous proposerons une mise en relation directe avec les plateformes expertes dans la distribution des pièces détachées, telles que SOS Accessoires [^18] ou encore Spareka [^19].
 
 Et si une panne n’a pas de solution existante par manque de pièce détachée disponible, là encore la communauté pourra identifier une demande insatisfaite (= un marché potentiel), et quiconque pourra se lancer dans la production d’une pièce, si cela est possible juridiquement et techniquement.
 
 Chacun de nous pourra également désosser de vieux appareils hors service pour cannibaliser des pièces, et les proposer à d’autres utilisateurs en demande de ces pièces.
 
-#### Résumé
+### Résumé
 
 Ce chapitre était un peu dense en informations.
 
@@ -254,16 +257,15 @@ Voici à quoi ressemble notre dessin lorsque l’on en relie tous les points :
 
 → sur le moyen et le long terme, de nouvelles fonctionnalités seront déployées pour étendre le champ de la transparence aux pièces détachées. Il sera aussi possible de référencer les pannes, pour les endiguer au mieux et favoriser l’acte de réparation. Nous gérerons la mise en relation avec les distributeurs de pièces détachées mais aussi les réparateurs professionnels, pour les plus gros pépins.
 
-3/ Qui sommes-nous ?
---------------------
+## 3/ Qui sommes-nous ?
 
 Nous sommes encore aux prémices de ce vaste projet, mais nous sommes bien déterminés à fédérer un maximum de personnes pour répondre à l’enjeu de taille que nous avons identifié. Nous voulons mettre de grandes claques aux 14 millions de pannes par an (en France) que l’on peut éviter avec un meilleur entretien. Et sur le long terme, nous voulons nous diriger vers une transparence globale des produits.
 
-À l’heure où ce manifeste est rédigé, notre équipe est composée de 2 personnes : Guillaume à temps plein sur le projet depuis bientôt 1 an, et Jean-Philippe, à temps partiel sur le projet. Nous sommes frères.
+À l’heure où ce manifeste est rédigé, notre équipe est composée de 2 personnes : Guillaume, à temps plein sur le projet depuis 1 an, et Jean-Philippe, à temps partiel sur le projet. Nous sommes frères.
 
 Toute personne souhaitant apporter son soutien peut nous contacter sur l’adresse [equipe@p-repair.org](mailto:equipe@p-repair.org) afin que nous puissions échanger sur les opportunités de coopération. Plus nous serons nombreux, plus nous irons loin dans la bataille que nous avons choisie !
 
-#### Pourquoi
+### Pourquoi
 
 Parce que nous aimons la vie.
 
@@ -273,16 +275,15 @@ Nous aimons nous promener dans la nature vivante. Nous aimons observer les jeune
 
 Nous savons tous que la période actuelle est délicate, et que nous devons éviter de nous reposer sur des promesses faciles pour la période à venir. Il est surtout nécessaire de préparer concrètement le terreau qui verra peut-être fleurir de bonnes nouvelles pour demain. Nous savons qu’il est difficile de construire l’avenir lorsque nous sommes happés par le quotidien. Chacun d’entre nous a fort à faire dans sa vie. Mais lorsque nous pensons pouvoir organiser un avenir plus soutenable, dans le but de préserver le meilleur de notre civilisation, et de la relier davantage à notre environnement, faisons-le ! Essayons tout, coûte que coûte, pour remercier la vie, lorsque cela nous est permis !
 
-4/ Nos valeurs
---------------
+## 4/ Nos valeurs
 
-#### L’amour
+### L’amour
 
 Comme nous l’expliquions dans notre introduction, le but ultime de ce projet, la raison première de sa création, c’est l’amour que nous portons à la vie.
 
 Cet amour nous apporte de la force pour créer une solution qui soit utile au plus grand nombre.
 
-#### Le rêve
+### Le rêve
 
 Que serions-nous sans une part de rêve ?
 
@@ -290,7 +291,7 @@ Les rêves du passé ont façonné la réalité d’aujourd’hui. Alors certes,
 
 Aujourd’hui, nous devons plus que jamais rêver à la préservation du vivant. C’est un sujet de préoccupation récent pour notre espèce. Maintenant que nous en sommes conscients, nous avons besoin d’imaginer les plus beaux scénarios pour construire le monde de demain, en nous basant sur les réalités actuelles.
 
-#### L’action
+### L’action
 
 L’amour et le rêve peuvent sauver un cœur. Mais ils ne participent pas à la marche du monde sans action concrète. Nous sommes suffisamment déterminés dans nos convictions pour passer à l’action. Seule l’action permet de réaliser un rêve et de répandre l’amour.
 
@@ -306,20 +307,19 @@ C’est la théorie selon laquelle chaque partie doit agir selon ses responsabil
 
 Notre projet est avant tout de créer un cadre, en s’appuyant sur les technologies actuelles, pour permettre une action collective de masse. Dans le triangle de l’action, nous sommes une entreprise qui agit pour aider les consommateurs à agir.
 
-5/ Notre mission
-----------------
+## 5/ Notre mission
 
 Notre mission est simple : participer à la réduction de la consommation de nouveaux produits.
 
 Comment entendons-nous la mener à bien ?
 
-#### Sensibiliser et former
+### Sensibiliser et former
 
 Till, nous l’avons vu dès le début, fera de nous des super-utilisateurs ! Nous deviendrons encore plus sexy avec nos outil et nos nouvelles compétences acquises sans même nous en apercevoir ! Nous allons former des régiments de hackers du quotidien, et les plus talentueux ou altruistes aideront leurs proches pour multiplier encore leur impact. Et si jamais tout foire, nous serons bien armés en compétences transverses pour gérer les 2-3 bricoles de la fin du monde.
 
 Si un produit tombe en panne en moyenne au bout de 5 ans, nous ferons en sorte qu’il tombe en panne au bout de 10 ans ! Par le bon entretien et la meilleure connaissance de nos appareils, nous comptons bien lutter pour réduire la consommation, sans réduire notre confort de vie !
 
-#### Activer les imaginaires
+### Activer les imaginaires
 
 La sobriété est de plus en plus présente dans notre monde. Ou disons plutôt qu’elle reprend sa place dans nos contrés. Il s’agit avant tout de logique : on ne peut pas impunément prélever de nouvelles ressources sans arrêter, dans un monde où rien n’est infini.
 
@@ -327,7 +327,7 @@ Nous l’avons compris. Maintenant, il reste à en faire quelque chose de stylé
 
 Les statistiques seront nos alliées pour pousser la motivation toujours plus loin, dans la direction de la sobriété et de la durabilité ! Mieux vaut garder son argent pour festoyer et s’acheter un beau vélo, plutôt que de le dépenser régulièrement pour des produits qui ne tiennent pas la route ! Et mieux vaut entretenir ses bons produits pour s’éviter le soucis de voir une panne survenir.
 
-#### Faciliter les bonnes décisions
+### Faciliter les bonnes décisions
 
 Réduire notre consommation, c’est avant tout consommer les bons produits : ceux qui durent et sont économes en énergie.
 
@@ -337,7 +337,7 @@ Alors il faut s’intéresser au coût total de possession d’un produit, pour 
 
 Avoir des données sous la main, dans la poche, sans avoir à chercher plus loin, ça facilite les bonnes décisions. On va appeler ça une transparence et une mise en avant de l’information. Nos statistiques seront utiles pour favoriser une consommation responsable, et éviter les pièges des prix tirés à l’achat.
 
-#### Faciliter la réparation
+### Faciliter la réparation
 
 Malgré tous nos efforts, il y aura de la casse. C’est inévitable. Rien n’est éternel dans ce monde, et les pièces qui composent nos appareils ne dérogent pas à cette règle. Alors on anticipe. Formés au bon entretien, habitués à chouchouter les mécaniques, nous, utilisateurs de (p)repair, saurons reconnaître mieux que quiconque les symptômes de dysfonctionnement chez nos produits. Ça donne déjà une sacré longueur d’avance quand il faut se tourner vers la réparation ! Et pour amplifier cette avance, nous indiquerons pour les produits quelles pièces sont compatibles, avec des liens vers les distributeurs. En quelques tapotements de doigts, la bonne pièce sera commandée.
 
@@ -347,7 +347,7 @@ Si le diagnostic médical d’un produit pointe un trop gros problème pour le r
 
 Plus notre outil sera utilisé, plus il deviendra efficace pour faciliter la gestion de nos appareils de A à Z, et éviter de consommer ce dont nous n’avons pas besoin.
 
-#### Identifier les opportunités de marché
+### Identifier les opportunités de marché
 
 Il peut malheureusement arriver qu’un produit soit irréparable faute de pièce disponible.
 
@@ -355,14 +355,13 @@ Dans ce cas, nous pourrons entrer en relation les uns avec les autres pour écha
 
 Cette logique fonctionnera avec un nombre d’utilisateurs important.
 
-#### Mesurer
+### Mesurer
 
 On améliore ce que l’on mesure.
 
 Comme nous voulons sans cesse nous améliorer, nous entendons bien mesurer notre impact, pour la mission que nous nous sommes donnés. Nous travaillerons sur ce point avec des chercheurs, et nous développerons des indicateurs cohérents pour vérifier que notre organisation participe bien à la réduction de la consommation de nouveaux produits.
 
-Conclusion
-----------
+## Conclusion
 
 Revenons à la base. Nous aimons la vie. C’est pour cela, pour donner le change à cette gratitude infinie que nous ressentons, que nous agissons. Nous voulons préserver ce que nous aimons.
 
@@ -391,25 +390,24 @@ Mais seuls, nous ne serons rien. Futurs utilisateurs, futurs contributeurs à ce
 
 Ensemble, avec (p)repair, préparons notre avenir !
 
-Références:
------------
+## Références:
 
-1.  Fnac-Darty – Rapport du SAV – 2019
-2.  ADEME – « Comment améliorer l'utilisation et l'entretien des équipements domestiques ? Perceptions et pratiques des acteurs, pistes pour agir. » – 2022
-3.  ONU – « The Long View - Exploring Product Lifetime Extension » – 2017
-4.  ADEME – « Modélisation et évaluation environnementale de produits de consommation et biens d’équipement » – 2019
-5.  Alternatives Économiques – « Électroménager : dur, dur d’être durable » – N° 429 décembre 2022
-6.  ADEME – Infographie Biens d’équipement – « Les bénéfices environnementaux d’allonger leur durée de vie » – 2019
-7.  ADEME – Infographie – « Pourquoi l’entretien de nos appareils n’a rien d’anodin ? » – 2022
-8.  ADEME – Épargnons nos ressources – site internet : [https://epargnonsnosressources.gouv.fr/conseils-entretien-appareils/](https://epargnonsnosressources.gouv.fr/conseils-entretien-appareils/) – visité en 2024
-9.  Wikipédia – MacGyver – lien web : [https://fr.wikipedia.org/wiki/MacGyver](https://fr.wikipedia.org/wiki/MacGyver) – visité en 2024
-10.  Wikipédia – Furiosa – lien web : [https://fr.wikipedia.org/wiki/Furiosa](https://fr.wikipedia.org/wiki/Furiosa) – visité en 2024
-11.  Europen Commission – « Consumer Footprint - Basket of Products indicators on household appliances » – 2019
-12.  Wikipédia – lien web : [https://fr.wikipedia.org/](https://fr.wikipedia.org/) 
-13.  OpenStreetMap – lien web : [https://www.openstreetmap.org/](https://www.openstreetmap.org/) 
-14.  Open Food Facts – lien web : [https://fr.openfoodfacts.org/](https://fr.openfoodfacts.org/) 
-15.  Team for the Planet – lien web : [https://team-planet.com/fr](https://team-planet.com/fr) 
-16.  Wikipédia – Licence publique générale GNU – lien web : [https://fr.wikipedia.org/wiki/Licence\_publique\_g%C3%A9n%C3%A9rale\_GNU](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) – visité en 2024
-17.  Fnac-Darty – Rapport du SAV – 2023
-18.  SOS Accessoires – lien web : [https://www.sos-accessoire.com/](https://www.sos-accessoire.com/)
-19.  Spareka – lien web : [https://www.spareka.fr/](https://www.spareka.fr/)
+[^1]:  Fnac-Darty – Rapport du SAV – 2019
+[^2]:  ADEME – « Comment améliorer l'utilisation et l'entretien des équipements domestiques ? Perceptions et pratiques des acteurs, pistes pour agir. » – 2022
+[^3]:  ONU – « The Long View - Exploring Product Lifetime Extension » – 2017
+[^4]:  ADEME – « Modélisation et évaluation environnementale de produits de consommation et biens d’équipement » – 2019
+[^5]:  Alternatives Économiques – « Électroménager : dur, dur d’être durable » – N° 429 décembre 2022
+[^6]:  ADEME – Infographie Biens d’équipement – « Les bénéfices environnementaux d’allonger leur durée de vie » – 2019
+[^7]:  ADEME – Infographie – « Pourquoi l’entretien de nos appareils n’a rien d’anodin ? » – 2022
+[^8]:  ADEME – Épargnons nos ressources – lien web : [https://epargnonsnosressources.gouv.fr/conseils-entretien-appareils/](https://epargnonsnosressources.gouv.fr/conseils-entretien-appareils/) – visité en 2024
+[^9]:  Wikipédia – MacGyver – lien web : [https://fr.wikipedia.org/wiki/MacGyver](https://fr.wikipedia.org/wiki/MacGyver) – visité en 2024
+[^10]:  Wikipédia – Furiosa – lien web : [https://fr.wikipedia.org/wiki/Furiosa](https://fr.wikipedia.org/wiki/Furiosa) – visité en 2024
+[^11]:  Europen Commission – « Consumer Footprint - Basket of Products indicators on household appliances » – 2019
+[^12]:  Wikipédia – lien web : [https://fr.wikipedia.org/](https://fr.wikipedia.org/) 
+[^13]:  OpenStreetMap – lien web : [https://www.openstreetmap.org/](https://www.openstreetmap.org/) 
+[^14]:  Open Food Facts – lien web : [https://fr.openfoodfacts.org/](https://fr.openfoodfacts.org/) 
+[^15]:  Team for the Planet – lien web : [https://team-planet.com/fr](https://team-planet.com/fr) 
+[^16]:  Wikipédia – Licence publique générale GNU – lien web : [https://fr.wikipedia.org/wiki/Licence\_publique\_g%C3%A9n%C3%A9rale\_GNU](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) – visité en 2024
+[^17]:  Fnac-Darty – Rapport du SAV – 2023
+[^18]:  SOS Accessoires – lien web : [https://www.sos-accessoire.com/](https://www.sos-accessoire.com/)
+[^19]:  Spareka – lien web : [https://www.spareka.fr/](https://www.spareka.fr/)

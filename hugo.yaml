@@ -6,3 +6,26 @@ baseURL: https://blog.p-repair.org/
 title: Blog of the (p)repair project
 theme: hugo-PaperMod
 languageCode: en-us
+
+# ---------------------------------------------------------------------------- #
+#                                   Languages                                  #
+# ---------------------------------------------------------------------------- #
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+languages:
+  en:
+    contentDir: content/en
+    languageName: "English"
+    title: "Blog of the (p)repair project"
+    languageCode: "en-US"
+    weight: 1
+    disabled: false
+
+  fr:
+    contentDir: content/fr
+    languageName: "Français"
+    title: "Blog du projet (p)repair"
+    languageCode: "fr-FR"
+    weight: 2
+    disabled: false
