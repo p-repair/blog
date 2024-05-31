@@ -1,0 +1,8 @@
+# ---------------------------------------------------------------------------- #
+#                                   General                                    #
+# ---------------------------------------------------------------------------- #
+
+baseURL: https://blog.p-repair.org/
+title: Blog of the (p)repair project
+theme: hugo-PaperMod
+languageCode: en-us

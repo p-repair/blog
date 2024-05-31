@@ -1,4 +1,0 @@
-baseURL = 'https://blog.p-repair.org/'
-languageCode = 'en-us'
-title = 'Blog of the (p)repair project'
-theme = 'hugo-PaperMod'
