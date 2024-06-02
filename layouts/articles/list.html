@@ -1,0 +1,39 @@
+{{- define "main" }}
+
+<br>
+<h1>{{ i18n "technical-articles" }}</h1>
+<br>
+
+{{- $pages := union .RegularPages .Sections }}
+
+{{- $pages = where $pages "Section" "articles" }}
+
+{{ $sortedPages := sort $pages "Date" "asc" }}
+
+{{- $paginator := .Paginate $sortedPages }}
+
+{{- range $index, $page := $paginator.Pages }}
+
+<article class="post-entry tag-entry">
+    {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
+    {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
+    <header class="entry-header">
+        <h2 class="entry-hint-parent">
+            {{- .Title }}
+        </h2>
+    </header>
+    {{- if (ne (.Param "hideSummary") true) }}
+    <div class="entry-content">
+        <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+    </div>
+    {{- end }}
+    {{- if not (.Param "hideMeta") }}
+    <footer class="entry-footer">
+        {{- partial "post_meta.html" . -}}
+    </footer>
+    {{- end }}
+    <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+</article>
+{{- end }}
+
+{{- end }}{{- /* end main */ -}}
