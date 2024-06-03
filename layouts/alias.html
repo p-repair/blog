@@ -48,15 +48,23 @@
                 'fr': '/fr/'
             };
 
-            // check the preferred browser language
-            const preferLang = getFirstBrowserLanguage().slice(0, 2);
-            const url = languages[preferLang];
-            // if that language is available on the website then select it
-            if (url) {
-                window.location.replace(url);
+            const savedLanguage = localStorage.getItem('selectedlanguage');
+            // if a language has been selected earlier
+            if (savedLanguage) {
+                // then reselect that language
+                window.location.replace(languages[savedLanguage]);
+
             } else {
-                // fallback to English
-                window.location.replace(languages['en']);
+                // check the preferred browser language
+                const preferLang = getFirstBrowserLanguage().slice(0, 2);
+                const url = languages[preferLang];
+                // if that language is available on the website then select it
+                if (url) {
+                    window.location.replace(url);
+                } else {
+                    // fallback to English
+                    window.location.replace(languages['en']);
+                }
             }
         })()
     </script>
