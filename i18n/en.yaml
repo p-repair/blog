@@ -7,3 +7,12 @@
 
 - id: manifesto-slug
   translation: "/manifesto"
+
+- id: categories
+  translation: "Categories"
+
+- id: last-posts
+  translation: "Last posts"
+
+- id: newsletter-history
+  translation: "Newsletter History"
